@@ -1,6 +1,4 @@
-﻿namespace wi19b065 {
-
-Feature: CalcFeature
+﻿Feature: SpecFlowFeature1
 	In order to avoid silly mistakes
 	As a math idiot
 	I want to be told the sum of two numbers
@@ -25,4 +23,3 @@ Scenario: divide two numbers
     Given a calculator object
     When divide 2 with  1
     Then should return 2
-    }
