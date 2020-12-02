@@ -5,7 +5,6 @@ using Xunit;
 namespace wi19b065
 
 {
-
     public class SpecFlowFeature1Steps
     {
         private Calculator calc;
